@@ -1,3 +1,5 @@
+// This file is not currently being used. It is in place of index.js if you want to use caching
+
 import React from 'react';
 import { render } from 'react-dom';
 import App from './App';
